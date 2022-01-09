@@ -1,0 +1,1 @@
+# Projeyi git e yukluyorum
